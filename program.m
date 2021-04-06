@@ -1,7 +1,7 @@
 %On my honor, I, Ian Calder, Connor Annett, Andrea McPherson, Rafa Castillo have neither given nor recieved unauthorized
 %aid while doing this assingment.
 %preparing the environment
-%This program will sort the vector from the least to greatest
+%This program will calculate how much pollution is produced when using a car
 clc; clear;
 exit = 1;
 next = 2;
